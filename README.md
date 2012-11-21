@@ -6,3 +6,5 @@ This is a test to create a layout with drag and drop with Twitter Bootstrap, jQu
 edit.asp - ASP Classic file that only echo the edited text from jEditable
 
 index.html - The main file that do the stuff
+
+See demo on http://test.rickardp.se/statichtmlstuff/
